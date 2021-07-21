@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../imagens/backend.png" alt="Backend BeTheHero" title="Backend BeTheHero" style="vertical-align:top; margin:6px 4px;" width="50%">
+  <img src="../.imagens/backend-bethehero.png" alt="Backend BeTheHero" title="Backend BeTheHero" style="vertical-align:top; margin:6px 4px;" width="50%">
 </p><br />
 
 # Backend BeTheHero
