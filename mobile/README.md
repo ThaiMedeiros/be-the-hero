@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../.imagens/mobile.png" alt="Mobile BeTheHero" title="Mobile BeTheHero" style="vertical-align:top; margin:6px 4px;" width="50%">
+  <img src="../.imagens/mobile-bethehero.png" alt="Mobile BeTheHero" title="Mobile BeTheHero" style="vertical-align:top; margin:6px 4px;" width="50%">
 </p><br />
 
 # Mobile BeTheHero
